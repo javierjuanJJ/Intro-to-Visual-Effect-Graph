@@ -104,7 +104,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 862
+  controlID: 1030
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -168,20 +168,20 @@ MonoBehaviour:
       m_ExpandedIDs: 1cbcffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Snow_Live
+        m_OriginalName: Snow_Live
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -91882
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 5}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -475,9 +475,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.45581484, y: 0.46012282, z: 0.17592978}
+    m_Target: {x: -0.008661509, y: 1.4014218, z: -0.018482447}
     speed: 2
-    m_Value: {x: 0.45581484, y: 0.46012282, z: 0.17592978}
+    m_Value: {x: -0.008661398, y: 1.4014215, z: -0.0184824}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -528,9 +528,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-    m_Target: 58.390087
+    m_Target: 2.9189174
     speed: 2
-    m_Value: 58.43359
+    m_Value: 2.9189305
   m_Ortho:
     m_Target: 0
     speed: 2
